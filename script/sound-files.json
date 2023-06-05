@@ -1,0 +1,132 @@
+[
+  {
+    "name": "companionEmote/alert.wav",
+    "offset": 0,
+    "duration": 0.53
+  },
+  {
+    "name": "companionEmote/angry.wav",
+    "offset": 0.53,
+    "duration": 1.03
+  },
+  {
+    "name": "companionEmote/confused.wav",
+    "offset": 1.56,
+    "duration": 0.78
+  },
+  {
+    "name": "companionEmote/cry.wav",
+    "offset": 2.34,
+    "duration": 0.78
+  },
+  {
+    "name": "companionEmote/embarrassed.wav",
+    "offset": 3.12,
+    "duration": 0.53
+  },
+  {
+    "name": "companionEmote/excited.wav",
+    "offset": 3.6500000000000004,
+    "duration": 1.03
+  },
+  {
+    "name": "companionEmote/keyboard.wav",
+    "offset": 4.680000000000001,
+    "duration": 0.5690625
+  },
+  {
+    "name": "companionEmote/sad.wav",
+    "offset": 5.249062500000001,
+    "duration": 0.7175
+  },
+  {
+    "name": "companionEmote/surprise.wav",
+    "offset": 5.966562500000001,
+    "duration": 0.17358333333333334
+  },
+  {
+    "name": "companionEmote/victory.wav",
+    "offset": 6.140145833333334,
+    "duration": 1.53
+  },
+  {
+    "name": "ui/GUI_Notification 07 1.wav",
+    "offset": 7.6701458333333346,
+    "duration": 0.5198541666666666
+  },
+  {
+    "name": "ui/GUI_Notification 09 1.wav",
+    "offset": 8.190000000000001,
+    "duration": 0.42375
+  },
+  {
+    "name": "ui/GUI_Notification 14 1.wav",
+    "offset": 8.613750000000001,
+    "duration": 2.5565625
+  },
+  {
+    "name": "ui/GUI_Notification 16 1.wav",
+    "offset": 11.170312500000001,
+    "duration": 0.489375
+  },
+  {
+    "name": "ui/GUI_Scroll Sound 27 1.wav",
+    "offset": 11.659687500000002,
+    "duration": 0.11725
+  },
+  {
+    "name": "ui/GUI_Swipe 06 1.wav",
+    "offset": 11.776937500000003,
+    "duration": 0.489375
+  },
+  {
+    "name": "ui/GUI_Swipe 07 1.wav",
+    "offset": 12.266312500000003,
+    "duration": 0.489375
+  },
+  {
+    "name": "ui/GUI_Swipe 08 1.wav",
+    "offset": 12.755687500000004,
+    "duration": 0.489375
+  },
+  {
+    "name": "ui/GUI_Swipe 09 1.wav",
+    "offset": 13.245062500000005,
+    "duration": 0.489375
+  },
+  {
+    "name": "ui/GUI_Swipe 10 1.wav",
+    "offset": 13.734437500000006,
+    "duration": 0.5467916666666667
+  },
+  {
+    "name": "ui/GUI_Swipe 11 1.wav",
+    "offset": 14.281229166666673,
+    "duration": 0.5467916666666667
+  },
+  {
+    "name": "ui/GUI_Transition 03.wav",
+    "offset": 14.82802083333334,
+    "duration": 0.489375
+  },
+  {
+    "name": "ui/GUI_Transition 11.wav",
+    "offset": 15.317395833333341,
+    "duration": 0.6329375
+  },
+  {
+    "name": "ui/UI_Button_Select.wav",
+    "offset": 15.950333333333342,
+    "duration": 1.0581041666666666
+  },
+  {
+    "name": "ui/UI_Error.wav",
+    "offset": 17.00843750000001,
+    "duration": 0.34725
+  },
+  {
+    "name": "ui/UI_Get_Item.wav",
+    "offset": 17.35568750000001,
+    "duration": 0.5
+  }
+]
